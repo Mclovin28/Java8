@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:07:00 +0100] "GET /northbrick3 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:07:03 +0100] "GET /northbrick3/ HTTP/1.1" 200 824
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:07:08 +0100] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:07:11 +0100] "GET / HTTP/1.1" 200 11452
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:09:07 +0100] "GET /northbrick3/ProductListMockup HTTP/1.1" 200 1156
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:09:07 +0100] "GET /northbrick3/style.css HTTP/1.1" 200 992
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:09:07 +0100] "GET /northbrick3/favicon.ico HTTP/1.1" 200 59619
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:10:26 +0100] "GET /northbrick3/ProductEditMockup?id=1 HTTP/1.1" 200 949
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:10:33 +0100] "GET /northbrick3/ProductList HTTP/1.1" 200 776170
+0:0:0:0:0:0:0:1 - - [27/Feb/2023:11:38:31 +0100] "GET /northbrick3/ProductEdit?id=0901 HTTP/1.1" 200 976
